@@ -1,0 +1,5 @@
+settings.py
+static/
+__pycache__/
+wsgi.py
+file_vec_info.json
